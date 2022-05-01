@@ -22,3 +22,6 @@ These two files are mainly used for the training phase of the model. One is a tr
 
 [ File ] CellSegmentation.py
 This file mainly gives examples of applying the model to predict images.
+
+[ File ] InitialAnnotationGenerator.py
+The file mainly includes local feature extraction, feature dimension reduction, image clustering, watershed and fuzzy label generation function.
