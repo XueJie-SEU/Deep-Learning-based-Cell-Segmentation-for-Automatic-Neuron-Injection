@@ -17,3 +17,8 @@ Code for Deep-Learning based Cell Segmentation for Automatic Neuron Injection
 
 -spyder 5.0.3
 
+[ File ] Data4Mask.py and attUNet4Mask.py
+These two files are mainly used for the training phase of the model. One is a training data generator and the other is a model structure based on Keras implementation.
+
+[ File ] CellSegmentation.py
+This file mainly gives examples of applying the model to predict images.
